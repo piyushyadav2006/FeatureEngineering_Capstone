@@ -38,6 +38,6 @@ Interaction Features: Location-based pricing adjustments and cross-variable poly
 Final Model Performance
 After extensive feature engineering and feature selection (using Random Forest Importance, Mutual Information, and Chi-Square tests), the final Top 20 features were modeled with the following results:
 
-Final F1 Score: 0.9665
+Final F1 Score: 0.9763
 
-Final ROC-AUC: 0.9944
+Final ROC-AUC: 0.9969
