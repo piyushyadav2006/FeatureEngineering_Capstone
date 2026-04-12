@@ -41,3 +41,5 @@ After extensive feature engineering and feature selection (using Random Forest I
 Final F1 Score: 0.9763
 
 Final ROC-AUC: 0.9969
+
+(THE CSV DATA SET WAS USED FROM LUMEN . THE ONE WHICH WAS PROVIDED IN THE Data Preprocessing SECTION)
